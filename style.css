@@ -10,4 +10,5 @@ small{
     color: rgb(50, 50, 50);
     font-family: 'Fira Code', monospace;
     letter-spacing: 1px;
+    text-align: center;
 }
