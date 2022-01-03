@@ -1,0 +1,12 @@
+h1{
+    font-family: Poppins;
+    color: deepskyblue;
+}
+p{
+    font-family: 'Fira Code', monospace;
+    color: deeppink;
+}
+small{
+    color: rgb(50, 50, 50);
+    font-family: 'Fira Code', monospace;
+}
